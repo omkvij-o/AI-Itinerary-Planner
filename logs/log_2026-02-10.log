@@ -1,0 +1,35 @@
+2026-02-10 08:41:00,560 - INFO - CONFIGURATION LOADED SUCCESSFULLY
+2026-02-10 08:41:02,415 - INFO - SERPER TOOL ALL SET
+2026-02-10 08:41:02,525 - INFO - TAVILY TOOL ALL SET
+2026-02-10 08:41:04,491 - INFO - AGENT CREATED SUCCESSFULLY
+2026-02-10 08:42:25,675 - INFO - CONFIGURATION LOADED SUCCESSFULLY
+2026-02-10 08:42:25,675 - INFO - SERPER TOOL ALL SET
+2026-02-10 08:42:25,677 - INFO - TAVILY TOOL ALL SET
+2026-02-10 08:42:26,652 - INFO - AGENT CREATED SUCCESSFULLY
+2026-02-10 08:42:58,100 - INFO - TRAVEL PLANNER INITIALIZED SUCCESSFULLY
+2026-02-10 08:42:59,134 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 08:43:04,092 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 08:43:04,097 - ERROR - Planner error: 'message'
+2026-02-10 08:43:04,098 - ERROR - Error creating itinerary: Failed to create itinerary for kerala | Error: 'message' | File: G:\Projects\Production_ready_projects\AI Itinerary\src\core\planner.py | Line: 37
+2026-02-10 08:43:57,047 - INFO - TRAVEL PLANNER INITIALIZED SUCCESSFULLY
+2026-02-10 08:43:57,702 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 08:44:03,223 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 08:44:03,227 - ERROR - Planner error: 'message'
+2026-02-10 08:44:03,227 - ERROR - Error creating itinerary: Failed to create itinerary for kerala | Error: 'message' | File: G:\Projects\Production_ready_projects\AI Itinerary\src\core\planner.py | Line: 37
+2026-02-10 08:46:07,724 - INFO - CONFIGURATION LOADED SUCCESSFULLY
+2026-02-10 08:46:07,724 - INFO - SERPER TOOL ALL SET
+2026-02-10 08:46:07,726 - INFO - TAVILY TOOL ALL SET
+2026-02-10 08:46:08,692 - INFO - AGENT CREATED SUCCESSFULLY
+2026-02-10 08:46:13,362 - INFO - TRAVEL PLANNER INITIALIZED SUCCESSFULLY
+2026-02-10 08:46:14,012 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 08:46:18,306 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 08:46:18,320 - ERROR - Planner error: 'AIMessage' object is not subscriptable
+2026-02-10 08:46:18,323 - ERROR - Error creating itinerary: Failed to create itinerary for kerala | Error: 'AIMessage' object is not subscriptable | File: G:\Projects\Production_ready_projects\AI Itinerary\src\core\planner.py | Line: 37
+2026-02-10 08:50:27,487 - INFO - CONFIGURATION LOADED SUCCESSFULLY
+2026-02-10 08:50:27,487 - INFO - SERPER TOOL ALL SET
+2026-02-10 08:50:27,489 - INFO - TAVILY TOOL ALL SET
+2026-02-10 08:50:28,534 - INFO - AGENT CREATED SUCCESSFULLY
+2026-02-10 08:50:49,417 - INFO - TRAVEL PLANNER INITIALIZED SUCCESSFULLY
+2026-02-10 08:50:49,847 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 08:50:52,257 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-10 08:50:57,409 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
